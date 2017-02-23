@@ -16,13 +16,13 @@ a {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1em;
     text-decoration: none;
-    color: #999;
+    color: #FF1493;
 }
 a:hover {
     text-decoration: underline;
 }
 h3 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
